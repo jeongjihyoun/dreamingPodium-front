@@ -1,10 +1,11 @@
 # Wright App _ front    
-
-DreamingPodium _ **'wright'** 
+Mobile App 'Wright' Frontend using ReactNative
 
 Training diary services for athletes.🏃🏻‍♀️
 
-Mobile App 'Wright' Frontend using ReactNative
+2021 '스타트업 더 드림' 대상을 수상하였습니다 🏆
+
+
 
 
 ***
@@ -24,14 +25,6 @@ Wright is a mobile application that helps manage training, injury, conditioning 
 This repository contains all information about frontend code.   
 Frontend part is made and managed by Jihyoun Jeong.   
 #### You can check backend here: [Click Here][back_link]
-
-***
-
-Team Member
------------
-#### 경희대학교 컴퓨터공학과
-2017104024 정민혁 jeongmh09@naver.com   
-2018103062 정지현 jihyoun0602@gmail.com   
 
 
 ***
